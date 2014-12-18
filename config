@@ -1,0 +1,8 @@
+[credentials]
+email = email@gmail.com
+password = pswrd
+
+#period defined in seconds
+[update]
+period = 20
+
